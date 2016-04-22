@@ -26,7 +26,9 @@ Da die Winsensoren nicht direkt an der sensBox seinen können müssen diese mit 
 Auch ist daruf zu achten, dass der Windgeschwindkeitssensor wircklich an dem passenden Port angschlossen ist da nur dieser eine Port durch die Intterupt Funktion( siehe Code) verwendet werden kann.
 
 Bei dem Schaltplan wurden nicht die genau so aussenden Sensoren verwendet wie sie in der Sensebox sind da es diese nicht gab.(Auf die Namen der Senoren und deren Ansteck punkte achten).
+
 <img src="https://github.com/Valderag/Sensebox/blob/master/Sensebox_Steckplatine.jpg" width="200"/>
+
 
 Für die Windsensoren müssen wir noch einen extra Wiederstand dazwischen packen( siehe Bild).
 
